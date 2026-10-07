@@ -82,4 +82,4 @@
 - HealthLink BC：Health Connect Registry: https://www.healthlinkbc.ca/health-connect-registry
 - HealthLink BC：8-1-1 服务: https://www.healthlinkbc.ca/find-care/healthlink-bc-8-1-1-services
 
-本站提供 BC 官方照护流程的导航信息，不构成医疗、法律或财务意见；不推荐、不评价任何照护机构，也不代表健康局。申请资格、费用与轮候以 BC 省与各健康局公布者为准。紧急情况请拨打 911。
+申请资格、费用与轮候以 BC 省及健康局公布者为准。紧急情况请拨打 911。
