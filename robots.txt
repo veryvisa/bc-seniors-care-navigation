@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://veryvisa.github.io/bc-seniors-care-navigation/sitemap.xml
